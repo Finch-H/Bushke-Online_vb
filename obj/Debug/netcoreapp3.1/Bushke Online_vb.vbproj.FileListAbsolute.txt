@@ -1,0 +1,16 @@
+C:\Users\pc\source\repos\Bushke Online_vb\Bushke Online_vb\obj\Debug\netcoreapp3.1\Bushke Online_vb.vbprojAssemblyReference.cache
+C:\Users\pc\source\repos\Bushke Online_vb\Bushke Online_vb\obj\Debug\netcoreapp3.1\Bushke_Online_vb.Form1.resources
+C:\Users\pc\source\repos\Bushke Online_vb\Bushke Online_vb\obj\Debug\netcoreapp3.1\Bushke_Online_vb.Resources.resources
+C:\Users\pc\source\repos\Bushke Online_vb\Bushke Online_vb\obj\Debug\netcoreapp3.1\Bushke Online_vb.vbproj.GenerateResource.cache
+C:\Users\pc\source\repos\Bushke Online_vb\Bushke Online_vb\obj\Debug\netcoreapp3.1\Bushke Online_vb.AssemblyInfoInputs.cache
+C:\Users\pc\source\repos\Bushke Online_vb\Bushke Online_vb\obj\Debug\netcoreapp3.1\Bushke Online_vb.AssemblyInfo.vb
+C:\Users\pc\source\repos\Bushke Online_vb\Bushke Online_vb\obj\Debug\netcoreapp3.1\Bushke Online_vb.vbproj.CoreCompileInputs.cache
+C:\Users\pc\source\repos\Bushke Online_vb\Bushke Online_vb\bin\Debug\netcoreapp3.1\Bushke Online_vb.exe
+C:\Users\pc\source\repos\Bushke Online_vb\Bushke Online_vb\bin\Debug\netcoreapp3.1\Bushke Online_vb.deps.json
+C:\Users\pc\source\repos\Bushke Online_vb\Bushke Online_vb\bin\Debug\netcoreapp3.1\Bushke Online_vb.runtimeconfig.json
+C:\Users\pc\source\repos\Bushke Online_vb\Bushke Online_vb\bin\Debug\netcoreapp3.1\Bushke Online_vb.runtimeconfig.dev.json
+C:\Users\pc\source\repos\Bushke Online_vb\Bushke Online_vb\bin\Debug\netcoreapp3.1\Bushke Online_vb.dll
+C:\Users\pc\source\repos\Bushke Online_vb\Bushke Online_vb\bin\Debug\netcoreapp3.1\Bushke Online_vb.pdb
+C:\Users\pc\source\repos\Bushke Online_vb\Bushke Online_vb\obj\Debug\netcoreapp3.1\Bushke Online_vb.dll
+C:\Users\pc\source\repos\Bushke Online_vb\Bushke Online_vb\obj\Debug\netcoreapp3.1\Bushke Online_vb.pdb
+C:\Users\pc\source\repos\Bushke Online_vb\Bushke Online_vb\obj\Debug\netcoreapp3.1\Bushke Online_vb.genruntimeconfig.cache
